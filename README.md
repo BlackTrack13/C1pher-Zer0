@@ -32,7 +32,7 @@ It also includes a **CLI (Command-Line Interface)** version for power users, fou
 1. GUI Mode
   Launch the GUI application.put anu numeric key
   Visualize encryption/decryption with animations and sound effects.
-  https://github.com/user-attachments/assets/20fce4c7-cc0f-4904-831f-4e7608d0c799
+  **Video**:https://github.com/user-attachments/assets/20fce4c7-cc0f-4904-831f-4e7608d0c799
 
 2. CLI Mode
   Run the CLI script with Python and follow command-line prompts for encryption and decryption tasks.
