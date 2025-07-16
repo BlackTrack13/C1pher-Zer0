@@ -1,6 +1,6 @@
 # C1pher Zer0
 
-**C1pher Zer0** is an interactive Python-based cryptography tool that brings encryption to life using a GUI and audio-visual effects. Built with `tkinter`, it helps explain cipher logic through animations and sounds — great for learners and educators.
+**C1pher Zer0** is an interactive Python-based cryptography tool that brings encryption to life using a GUI and audio-visual effects. Built with `tkinter`, it helps explain Cipher Zero logic through animations and sounds — great for learners and educators.
 
 It also includes a **CLI (Command-Line Interface)** version for power users, found in the `C1pher Zer0 Ver2.py` file.
 
@@ -27,6 +27,7 @@ It also includes a **CLI (Command-Line Interface)** version for power users, fou
     ├── 192.wav                 
     └── sh2-recieve-item.mp3
 ```
+---
 
 ## 📖 Usage Examples
 1. GUI Mode
@@ -38,21 +39,29 @@ It also includes a **CLI (Command-Line Interface)** version for power users, fou
   Run the CLI script with Python and follow command-line prompts for encryption and decryption tasks.
   ![CWindowsSystem32cmd exe  2025-07-16_20 02 24](https://github.com/user-attachments/assets/bf2dfda3-af6f-4068-9b67-3a62e091cf2a)
 
-
-
+---
 
 ## 🛠️ Requirements
 
-- Python 3.x
-- `tkinter` (usually included with Python)
-- `playsound 1.2.2` (install via pip)
+Python 3.x
+
+tkinter (usually included with standard Python installations)
+
+playsound==1.2.2
+
+tabulate
+
+tqdm
+
+---
 
 ### Install dependencies:
 
 ```bash
-pip install playsound==1.2.2
+pip install playsound==1.2.2 tabulate tqdm
 ```
 
+---
 
 📄 Custom License
 © 2025 BlackTrack
