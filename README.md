@@ -31,7 +31,7 @@ It also includes a **CLI (Command-Line Interface)** version for power users, fou
 
 ## 📖 Usage Examples
 1. GUI Mode
-  Launch the GUI application.put anu numeric key
+  Launch the GUI application & put any numeric key
   Visualize encryption/decryption with animations and sound effects.
   ![ezgif-5d54a5b9216b97](https://github.com/user-attachments/assets/31e902fc-f8c2-43cd-bf01-1403342c804e)
 
