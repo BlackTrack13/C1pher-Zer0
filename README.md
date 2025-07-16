@@ -1,6 +1,6 @@
 # C1pher Zer0
 
-**C1pher Zer0** is an interactive Python-based cryptography tool that brings encryption to life using a GUI and audio-visual effects. Built with `tkinter`, it helps explain Cipher Zero logic through animations and sounds — great for learners and educators.
+**C1pher Zer0** is an interactive Python-based Cipher Zero cryptography tool that brings encryption to life using a GUI and audio-visual effects. Built with `tkinter`, it helps explain Cipher Zero logic through animations and sounds — great for learners and educators.
 
 It also includes a **CLI (Command-Line Interface)** version for power users, found in the `C1pher Zer0 Ver2.py` file.
 
